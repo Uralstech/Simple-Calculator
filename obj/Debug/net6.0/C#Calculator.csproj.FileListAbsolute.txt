@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#Calculator\bin\Debug\net6.0\C#Calculator.exe
+C:\Users\asus\Desktop\C#Calculator\bin\Debug\net6.0\C#Calculator.deps.json
+C:\Users\asus\Desktop\C#Calculator\bin\Debug\net6.0\C#Calculator.runtimeconfig.json
+C:\Users\asus\Desktop\C#Calculator\bin\Debug\net6.0\C#Calculator.dll
+C:\Users\asus\Desktop\C#Calculator\bin\Debug\net6.0\C#Calculator.pdb
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.dll
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\refint\C#Calculator.dll
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.pdb
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\C#Calculator.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#Calculator\obj\Debug\net6.0\ref\C#Calculator.dll
